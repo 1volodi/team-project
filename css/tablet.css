@@ -19,6 +19,16 @@
     height: 40px;
     line-height: 1.7;
     margin-top: 32px;
+    margin-right: 14px;
   }
+  .hero-list {
+    display: flex;
+    gap: 32px;
+    margin-top: 54px;
+  }
+  .hero-text {
+  width: 338px;
+  height: 72px;
+}
   /* =========hero-tab/========= */
 }
