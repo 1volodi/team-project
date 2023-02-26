@@ -1,20 +1,10 @@
 @media screen and (min-width: 480px) {
   .conteiner {
-    max-width: 428px;
+    max-width: 375px;
   }
 
   /* =========hero-mob========= */
-  .hero {
-  background-image: var(--gra), url(../images/hero-image-tab.jpg);
-  }
-  @media screen and (min-device-pixel-ratio: 2),
-  screen and (min-resolution: 192dpi),
-  screen and (min-resolution: 2dppx) {
-  .hero {
-    background-image: var(--gra),
-  url(../images/hero-image@2x-tab.jpg);
-  }
- }
+
 
   /* ========modal-window-mob======== */
   .modal {
